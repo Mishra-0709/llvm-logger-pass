@@ -1,4 +1,4 @@
-🛠️ LLVM Function Analyzer Pass
+##**🛠️ LLVM Function Analyzer Pass**
 This project implements a custom LLVM compiler pass that analyzes LLVM IR to extract information such as function counts, instruction statistics, or apply basic optimizations. It is built using the LLVM Pass framework and written in C++.
 
 📌 Project Overview
